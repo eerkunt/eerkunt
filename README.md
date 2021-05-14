@@ -37,27 +37,9 @@
   </a>  
   <a href="https://twitch.tv/astrofotografi">
     <img src="https://img.shields.io/badge/twitch-Astrofotografi-6441A5?logo=twitch&style=flat-square" />
-        <img src="https://img.sheilds.io/twitch/status/Astrofotografi?style=social" />
+        <img src="https://img.shields.io/twitch/status/Astrofotografi?style=social&style=flat-square" />
   </a>
   <a href="https://www.astrobin.com/users/emre.erkunt/">
-    <img src="https://img.shields.io/badge/astrobin-emre.erkunt-c9c9c9?logo=NASA&style=flat-square" />
+    <img src="https://img.shields.io/badge/astrobin-emre.erkunt-c9c9c9?logo=NASA&logo=twitch&style=flat-square" />
   </a>  
 </p>
-
-
-
-
-<!--
-**eerkunt/eerkunt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
