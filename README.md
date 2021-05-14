@@ -5,7 +5,7 @@
     <b>Hello there, I'm <a href="https://github.com/eerkunt">Emre</a> 👋</b>
   </h1>
   <p align="center"
-    <samp>Wanderer. Sometimes I code, sometimes I play, sometimes I took astrophotos. 🤷‍♂️</samp>
+    <samp>Wanderer 🏖️. Sometimes I code 💻, sometimes I play 🎮, sometimes I took astrophotos 🔭. 🤷‍♂️</samp>
     <br />
     <i>- Yes, I took the picture above.</i>
   </p>
@@ -37,6 +37,7 @@
   </a>  
   <a href="https://twitch.tv/astrofotografi">
     <img src="https://img.shields.io/badge/twitch-Astrofotografi-6441A5?logo=twitch&style=flat-square" />
+        <img src="https://img.sheilds.io/twitch/status/Astrofotografi?style=social" />
   </a>
   <a href="https://www.astrobin.com/users/emre.erkunt/">
     <img src="https://img.shields.io/badge/astrobin-emre.erkunt-c9c9c9?logo=NASA&style=flat-square" />
