@@ -36,8 +36,7 @@
     <img src="https://img.shields.io/badge/youtube-eerkunt-FF0000?logo=youtube&style=flat-square" />
   </a>  
   <a href="https://twitch.tv/astrofotografi">
-    <img src="https://img.shields.io/badge/twitch-Astrofotografi-6441A5?logo=twitch&style=flat-square" />
-        <img src="https://img.shields.io/twitch/status/Astrofotografi?style=social&style=flat-square" />
+    <img src="https://img.shields.io/twitch/status/Astrofotografi?style=social&style=flat-square" />
   </a>
   <a href="https://www.astrobin.com/users/emre.erkunt/">
     <img src="https://img.shields.io/badge/astrobin-emre.erkunt-c9c9c9?logo=NASA&logo=twitch&style=flat-square" />
