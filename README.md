@@ -11,11 +11,6 @@
   </p>
 </p>
 
-<p align="center">
-  <a href="https://github.com/eerkunt">
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=eerkunt&show_icons=true&theme=graywhite&count_private=true&include_all_commits=true" />
-  </a>
-</p>
 
 -----
 <p align="center">
